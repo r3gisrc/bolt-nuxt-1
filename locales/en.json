@@ -1,0 +1,9 @@
+{
+  "nav": {
+    "logo": "Nuxt App"
+  },
+  "hero": {
+    "title": "Welcome to Nuxt",
+    "subtitle": "A minimal starter template"
+  }
+}
